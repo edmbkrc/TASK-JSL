@@ -32,6 +32,8 @@ The mtsamples(https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tut
 - Error analysis
 
 ## File Structure
-- models/custom_NER: Directory where the custom NER model is saved.
-- ner_logs/: Directory for storing model training logs.
-- test_2.parquet: Test dataset for model evaluation.
+- Spark_NLP_Healthcare_Pipeline_and_Training_a_Custom_NER_Model.ipynb
+- conll2003_text_file.conll
+- MedicalNerApproach_20e7f3bd760d.log: Directory for storing model training logs.
+- MedicalNerApproach_4a70d24c6486.log: Directory for storing model training logs.
+  
